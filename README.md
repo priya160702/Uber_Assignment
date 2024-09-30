@@ -7,3 +7,5 @@ This repository contains solutions to an analysis assignment using a dataset fro
 The dataset used for this analysis is located in the dataset_1.csv file. Each row in the dataset provides information about the number of eyeballs (app openings), zeroes (requests with no cars available), completed trips, requests, and unique drivers for each hour.
 
 ## Exaample Data Row:
+<img src="example.png" alt="Picture"/>
+
