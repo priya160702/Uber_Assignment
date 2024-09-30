@@ -9,3 +9,7 @@ The dataset used for this analysis is located in the dataset_1.csv file. Each ro
 ## Exaample Data Row:
 <img src="example.png" alt="Picture"/>
 
+This indicates that during the hour beginning at 4 PM on September 10th, 2012, there were 11 app openings, 2 instances with no available cars, 4 requests, and 3 completed trips, with 6 unique drivers logged in.
+
+
+
